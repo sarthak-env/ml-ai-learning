@@ -1,0 +1,31 @@
+student_id,name,age,gender,city,department,marks_math,marks_science,marks_english,attendance,grade,fee_paid
+1,Aarav Sharma,20,Male,Mumbai,Computer Science,88,92,76,95,A,Yes
+2,Priya Patel,22,Female,Delhi,Electronics,72,68,85,88,B,Yes
+3,Rohan Mehta,21,Male,Pune,Mechanical,55,60,50,70,C,No
+4,Sneha Iyer,23,Female,Mumbai,Computer Science,91,95,89,99,A,Yes
+5,Karan Singh,20,Male,Chennai,Civil,40,45,38,60,F,No
+6,Neha Gupta,22,Female,Hyderabad,Electronics,78,74,80,85,B,Yes
+7,Arjun Nair,21,Male,Bangalore,Computer Science,95,98,88,100,A,Yes
+8,Divya Reddy,24,Female,Chennai,Mechanical,63,58,70,75,C,Yes
+9,Vikram Joshi,20,Male,Pune,Civil,50,55,48,65,D,No
+10,Anjali Desai,22,Female,Mumbai,Computer Science,82,79,91,92,B,Yes
+11,Rahul Verma,23,Male,Delhi,Electronics,67,72,60,78,C,No
+12,Pooja Nair,21,Female,Bangalore,Computer Science,89,93,84,96,A,Yes
+13,Amit Kulkarni,22,Male,Pune,Mechanical,44,48,55,55,F,No
+14,Kavya Menon,20,Female,Hyderabad,Electronics,76,80,73,87,B,Yes
+15,Siddharth Roy,24,Male,Kolkata,Civil,58,62,54,72,D,Yes
+16,Ritika Sharma,21,Female,Mumbai,Computer Science,93,91,96,98,A,Yes
+17,Nikhil Pandey,22,Male,Delhi,Mechanical,61,57,65,68,C,No
+18,Tanya Bose,20,Female,Kolkata,Electronics,84,87,79,90,B,Yes
+19,Harsh Malhotra,23,Male,Chennai,Computer Science,,88,75,80,B,Yes
+20,Ishaan Chopra,21,Male,Bangalore,Civil,70,66,72,82,C,Yes
+21,Meera Pillai,22,Female,Hyderabad,Computer Science,86,90,83,94,A,Yes
+22,Aditya Kumar,20,Male,Pune,Mechanical,52,49,58,62,D,No
+23,Simran Kaur,23,Female,Delhi,Electronics,79,75,82,89,B,Yes
+24,Yash Agarwal,21,Male,Mumbai,Computer Science,97,99,92,100,A,Yes
+25,Deepika Rao,22,Female,Chennai,Civil,46,50,44,58,F,No
+26,Manish Tiwari,24,Male,Kolkata,Mechanical,65,60,68,74,C,Yes
+27,Ananya Singh,20,Female,Bangalore,Computer Science,88,85,90,95,A,Yes
+28,Ravi Shankar,22,Male,Hyderabad,Electronics,,71,66,77,C,No
+29,Nandini Joshi,21,Female,Pune,Civil,53,57,49,63,D,Yes
+30,Kunal Mehta,23,Male,Mumbai,Computer Science,90,94,87,97,A,Yes
