@@ -1,0 +1,16 @@
+order_id,product,category,price,delivered
+1001,Phone,Electronics,15000.0,Yes
+1002,T-Shirt,Clothing,499.0,Yes
+1003,Laptop,Electronics,55000.0,Yes
+1004,Rice,Grocery,120.0,Yes
+1005,Jeans,Clothing,1200.0,No
+1006,Earphones,Electronics,999.0,Yes
+1007,Dress,Clothing,1899.0,Yes
+1008,Tablet,Electronics,22000.0,No
+1009,Sugar,Grocery,50.0,Yes
+1010,Kurti,Clothing,799.0,Yes
+1011,Phone,Electronics,12000.0,Yes
+1012,Oil,Grocery,180.0,Yes
+1013,Laptop,Electronics,,Yes
+1014,Jeans,Clothing,1500.0,No
+1015,Rice,Grocery,120.0,Yes
